@@ -1,11 +1,11 @@
 #Contributors
 
 -[Will](./will.md)
--Matt
+-[Matt](./matt.md)
 -Connor
 -Paddy
 
-#What is papa
+#What is this projec
 bkcajbckac
 lahclca
 nlcahlca
