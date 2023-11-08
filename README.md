@@ -1,6 +1,6 @@
 #Contributors
 
--Will
+-[Will](./will.md)
 -Matt
 -Connor
 -Paddy
